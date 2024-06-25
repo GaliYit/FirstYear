@@ -1,0 +1,3 @@
+C:/Users/Gali/CLionProjects/Task2_GaliYitzhak(323029926)/cmake-build-debug/CMakeFiles/Task2_GaliYitzhak_323029926_.dir
+C:/Users/Gali/CLionProjects/Task2_GaliYitzhak(323029926)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gali/CLionProjects/Task2_GaliYitzhak(323029926)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
